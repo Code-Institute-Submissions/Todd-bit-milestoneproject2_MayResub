@@ -14,3 +14,22 @@
 .text {
     color: blue;
 }
+
+h1#lead {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 70px;
+    font-family: Impact;
+    color: DarkGoldenRod;
+}
+
+h3#bus {
+    text-align: center;
+}
+
+h3#email {
+    text-align: center;
+    font-family: Impact;
+    color: darkgreen;
+}
+
