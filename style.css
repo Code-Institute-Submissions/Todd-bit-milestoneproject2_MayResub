@@ -1,6 +1,16 @@
+.rectangle {
+    height: 50px;
+    width: 1100px;
+    background-color: green;
+}
+
 .circle {
     height: 50px;
     width: 50px;
-    background-color: #555;
+    background-color: red;
     border-radius: 50%;
+}
+
+.text {
+    color: blue;
 }
