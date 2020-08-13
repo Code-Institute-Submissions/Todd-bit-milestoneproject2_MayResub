@@ -1,24 +1,28 @@
-.rectangle {
-    height: 50px;
-    width: 1100px;
-    background-color: green;
+body {
+    background-color: beige;
 }
 
-.circle {
-    height: 50px;
-    width: 50px;
-    background-color: red;
-    border-radius: 50%;
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
 }
-
-.text {
-    color: blue;
+img {
+  max-width: 100%;
+  height:650px;
+  object-fit:cover;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 h1#lead {
     margin-top: 50px;
     text-align: center;
-    font-size: 70px;
+    font-size: 50px;
     font-family: Impact;
     color: DarkGoldenRod;
 }
@@ -33,3 +37,45 @@ h3#email {
     color: darkgreen;
 }
 
+div#map {
+    min-height: 360px;
+}
+
+div#locations {
+    margin-top: 20px;
+}
+
+h4#rail {
+    color: lightslategray;
+}
+
+h4#portage {
+     color: lightslategray;
+}
+
+h4#curve {
+     color: lightslategray;
+}
+
+h4#baker {
+     color: lightslategray;
+}
+
+h4#fort {
+     color: lightslategray;
+}
+
+h4#gallitzen {
+     color: lightslategray;
+}
+
+div#form {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    padding-left: 130px;
+}
+
+ul {
+    float: right;
+    margin-right: 20px;
+}
