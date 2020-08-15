@@ -48,7 +48,7 @@
                     <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4 col-md-6">
                         <div class="row">
                             <div class="col-xs-2 col-sm-2  col-md-2">
-                                <i class="fa fa-bars" aria-hidden="true"></i>
+                                <i class="fa fa-train" aria-hidden="true"></i>
                             </div>
                             <div class="col-xs-10 col-sm-10">
                                 <h4 id="rail">Altoona Railroaders Memorial Museum</h4>
@@ -62,7 +62,7 @@
                     <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4 col-md-6">
                         <div class="row">
                             <div class="col-xs-2 col-sm-2  col-md-2">
-                                <i class="fa fa-bars" aria-hidden="true"></i>
+                                <i class="fa fa-train" aria-hidden="true"></i>
                             </div>
                             <div class="col-xs-10 col-sm-10">
                                 <h4 id="portage">Allegheny Portage Railroad National Historic Site</h4>
@@ -78,7 +78,7 @@
                     <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4 col-md-6">
                         <div class="row">
                             <div class="col-xs-2 col-sm-2  col-md-2">
-                                <i class="fa fa-bars" aria-hidden="true"></i>
+                                <i class="fa fa-train" aria-hidden="true"></i>
                             </div>
                             <div class="col-xs-10 col-sm-10">
                                 <h4 id="curve">Horseshoe Curve</h4>
@@ -92,7 +92,7 @@
                     <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4 col-md-6">
                         <div class="row">
                             <div class="col-xs-2 col-sm-2  col-md-2">
-                                <i class="fa fa-bars" aria-hidden="true"></i>
+                                <i class="fa fa-train" aria-hidden="true"></i>
                             </div>
                             <div class="col-xs-10 col-sm-10">
                                 <h4 id="baker">Baker Mansion</h4>
@@ -108,7 +108,7 @@
                     <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4 col-md-6">
                         <div class="row">
                             <div class="col-xs-2 col-sm-2  col-md-2">
-                                <i class="fa fa-bars" aria-hidden="true"></i>
+                                <i class="fa fa-train" aria-hidden="true"></i>
                             </div>
                             <div class="col-xs-10 col-sm-10">
                                 <h4 id="fort">Fort Roberdeau Historic Site</h4>
@@ -122,7 +122,7 @@
                     <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4 col-md-6">
                         <div class="row">
                             <div class="col-xs-2 col-sm-2  col-md-2">
-                                <i class="fa fa-bars" aria-hidden="true"></i>
+                                <i class="fa fa-train" aria-hidden="true"></i>
                             </div>
                             <div class="col-xs-10 col-sm-10">
                                 <h4 id="gallitzen">Gallitzen Tunnels Park & Museum</h4>
@@ -169,24 +169,33 @@
     <script>
         function initMap() {
             var map = new google.maps.Map(document.getElementById("map"), {
-                zoom: 3,
+                zoom: 10,
                 center: {
-                    lat: 46.619261,
-                    lng: -33.134766
+                    lat: 40.5187,
+                    lng: -78.3947
                 }
             });
 
             var labels = "ABCDEFGHIJKLMONPQRSTUVWXYZ";
 
             var locations = [{
-                lat: 40.785091,
-                lng: -73.968285
+                lat: 40.3052,
+                lng: -78.2351
             }, {
-                lat: 41.084045,
-                lng: -73.874256
+                lat: 40.2926,
+                lng: -78.2430
             }, {
-                lat: 40.754932,
-                lng: -73.984016
+                lat: 40.2951,
+                lng: -78.293
+            }, {
+                lat: 40.3457,
+                lng: -78.1626
+            }, {
+                lat: 40.2715,
+                lng: -78.3225
+            }, {
+                lat: 40.2853,
+                lng: -78.3301
             }];
 
             var markers = locations.map(function(location, i) {
