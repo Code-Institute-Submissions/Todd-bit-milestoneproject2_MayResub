@@ -166,52 +166,10 @@
         </ul>
     </div>
 
-    <script>
-        function initMap() {
-            var map = new google.maps.Map(document.getElementById("map"), {
-                zoom: 10,
-                center: {
-                    lat: 40.5187,
-                    lng: -78.3947
-                }
-            });
-
-            var labels = "ABCDEFGHIJKLMONPQRSTUVWXYZ";
-
-            var locations = [{
-                lat: 40.3052,
-                lng: -78.2351
-            }, {
-                lat: 40.2926,
-                lng: -78.2430
-            }, {
-                lat: 40.2951,
-                lng: -78.293
-            }, {
-                lat: 40.3457,
-                lng: -78.1626
-            }, {
-                lat: 40.2715,
-                lng: -78.3225
-            }, {
-                lat: 40.2853,
-                lng: -78.3301
-            }];
-
-            var markers = locations.map(function(location, i) {
-                return new google.maps.Marker({
-                    position: location,
-                    label: labels[i % labels.length]
-                });
-            });
-
-            var markerCluster = new MarkerClusterer(map, markers, {
-                imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
-            });
-        }
-    </script>
+     
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDDHHyac2SiOYPNYxXMK7rqJjnB8nCaaxE&callback=initMap"></script>
-</body>
+    <script src="assets/js/maps.js"></script>
+    </body>
 
 </html>
