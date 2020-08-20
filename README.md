@@ -3,7 +3,7 @@ This is my second Milestone project which includes JavaScript. I decided to do m
 
 ## UX
 
-My goal was to develop the simplest webpage, so that the users would have to see the place they were going and the locations of the sites they would be visiting, and choose to email the webpage owners for arrangements to visit. 
+My goal was to develop the simplest webpage, so that the users would have to see the place they were going and the locations of the sites they would be visiting, and choose to email the webpage owners for arrangements to visit. The website is easy to use, addressing the user's needs, and the material is self-evident to everyone. 
 
 ## Features
 
