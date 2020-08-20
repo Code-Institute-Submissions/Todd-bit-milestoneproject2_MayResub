@@ -12,6 +12,12 @@ img {
   height:650px;
   object-fit:cover;
 }
+
+p#text {
+    font-size: 50px;
+    font-family: Impact;
+    color: GoldenRod;
+}
 .centered {
   position: absolute;
   top: 50%;
