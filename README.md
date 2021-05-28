@@ -8,20 +8,50 @@ This is my second Milestone project, which includes the language JavaScript. I d
 
 User Goals
 
-1. As a user, I want to make my way through the website easily.
-2. As a user, I want to know what's going on, what's being offered.
-3. As a user, I want to know where I'll be and why.
-4. As a user, I want to know why this is important.
-5. As a user, I want to know more about the town where the attraction is located.
+1. As a user, I want to understand what the site is for.
+2. As a user, I want to easily make my way through the site. 
+3. As a user, I want to find interesting places to tour.
+4. As a user, I want to have the daily itinerary picked out for me.
+5. As a user, I want to see the locations of the places to visit.
+6. As a user, I want transportation to be taken care of.
+7. As a user, I want to have good accommodations while I stay.
+8. As a user, I want to be able to contact the site holder immediately.
 
-User Goals Met
+Site Owner Goals
 
-1. This sitght fulfills the user goal by using a a very simple  fail-safe design.
-2. This sight turns the happenings of the tour into part of the sales pitch.
-3. This sight constantly reminds the user of precisely where they are in the world and why they are there.
-4. This sight will put the users in a place where they will have the importance of the place explained to 
-   them.
-5. This sight will have the users be where they can find out much more about Altoona and Gallitzen.  
+1. As a site owner, I want people to experience the historical sites of Central Pennsylvania.
+2. As a site owner, I want them to sit back and be taken to these places.
+3. As a site owner, I want them to have fun learning about the purpose and lore of such places.
+4. As a site owner, I want them to have a map that they can follow during their stay.
+5. As a site owner, I want them to have a nice place to stay.  
+6. As a site owner, I want to be able to reach me at anytime.
+
+User Requirements and Expectations
+
+Requirements
+
+1. The user should be presented with a visually appealing website.
+2. The user should be able to clearly navigate through the website from the time of their first visit,
+3. The user should be provided with helpful information about places in Central Pennsylvania.
+4. The user should be able to view these places on a map.
+5. The user should be able to contact the owner of the website.
+
+Expectations
+
+1. The website should be visually pleasing and easy to understand.
+2. The website should be informative.
+3. The website should have an easy to read location list.
+4. The website should have a working contact form.
+
+##Design Choices
+
+Colors
+
+I used four fall colors for this site - goldenrod, dark green, slate-grey and mild blue.  I feel that this area looks espescially handsome in the fall, at which time these colors can be spotted.
+
+Icons
+
+The icon in this website was taken from Font Awesome.  I chose the train icon.
 
 ###User Experience
 
@@ -37,28 +67,93 @@ The user will be able to see the location of all these sights on the Google Map,
 
 Lastly, the user will find an email page, which they will use to contact the site-holder to make arrangements.
 
+
+###Wireframe
+
+The wireframe for this website can be found at the following link
+
 ## Features
 
-Hero Image - First the user will see a Hero image of a Limekiln (description of a Limekiln given above), which is a giant picture of the thing with the phrase "Visit Central Pennsylvania" written over it.  I feel the Hero image makes the website seem more established, as if it were layed on a good foundation.
+Hero Image - First the user will see a Hero image of a Limekiln (description of a Limekiln given above), which is a giant picture of the thing with the phrase "Visit Central Pennsylvania" written over it.  I mention this as a feature because I feel the Hero image gives the website a single established and unifying mark, the one big hub around which the smaller things are grouped.
 
-Home Page - The vacation description, the sights visited, the map and the email are all found on one homepage, which has been quarted to fit each of the things just listed.  This website is so simply-styled that, other than the Hero image, all that it needs is a Homepage.
+Home Page - The vacation description, the sights visited, the map and the email are all found on one homepage, which has been quarted to fit each of the things just listed.  I mention this as a feature because the site is so simply done for the user, it only needs an easy to navigate Home page to hold it all together.
 
-Google Map - I mentioned the map before.  This is a great feature and tool to use on a website.  I haven't said this yet, but, other than giving the user just the coordinates of the the place, the map will also show one the highways and the streets that the site is located on.
+Google Map - This is a great feature and tool to use on a website.  Other than giving the user the coordinate location of the place, the map will also show them the highways and the streets that the site is located on - right down to showng the vehicle moving along the street as it heads to the location.
 
-Email - There is an email contact sight, which the user will use to contact the vacation givers for information and to make arrangements.
+Email - There is an email contact sight, which the user will use to contact the site holders for information and to make arrangements.
 
 Train Icon - A train icon put before the description of each of the sights visiting locations.
 
 ## Technologies
 
+Languages
+
 1. HTML
 2. CSS
-3. Bootstrap (3.3.7)
-4. JavaScript
+3. JavaScript
+
+Libraries & Other
+
+1. Font Awesome - The icon was found in Font Awesome.
+2. Bootstrap (3.3.7)
+3. Balsamiq - The wireframles come from Balsamiq.
+4. Github - This project was stored on Github.
+5. Gitpod - Gitpod was used to write the code on this project.
+6. Git - The version control system used for this project was Git.
+7. Google Maps - The map comes from Google Maps.
+8. Google Images - The Hero image comes from Google Images.
+
+
+##Resources
+
+The following were used as learning resources throughout the building of this project:
+
+1. Code Institute
+2. Slack - Code Institutes Community
+3. W3Schools
+4. Youtube
+5. Markdown
+
+##Bugs
+
+The only bug that I had was that the coordinates given by Google Maps were incorrect, and put the locations in the wrong place.  I fixed this problem by going to LatLong website for correct map coordinates.
+
+##Media
+
+The Hero image photo was taken from Google Images, photographer unknown.
 
 ## Testing
 
-The webpage had it's HTML and CSS checked by W3School's code validator to see if they were correct. All of the code was tested with DevTools. The site was viewed on several different sizes of computer to ensure that it looked good responsively.
+Code Validation
+
+1. I passed index.html through W3C Markup Validation Service and it showed no errors.
+2. I passed style.css through W3C CSS Validation Service and it showed no errors.
+3. I passed tbe JavaScript files through Esprima Syntax Validator and it showed no errors.
+
+Device Testing
+
+I tested this program on the following three devices:
+
+1. An HP desktop All-in-One 27-dpl-xxx, with a 27" screen.
+2. An Hp laptop 15t-dw200, with a 15" screen.
+3. An Amazon Fire HD10, with a 10" screen.
+4. A Boost Mobile phone cp3705AS CoolPad, with a 6 1/2" screen.
+
+Developer Tools
+
+I tested the program successfully on five different browsers:
+
+1. Chrome
+2. Firefox
+3. Edge
+4. Internet Explorer
+5. Safari
+
+Manual Testing
+
+
+
+Testing User Stories
 
 ## Deployment To Github Pages
 
@@ -70,10 +165,7 @@ The webpage had it's HTML and CSS checked by W3School's code validator to see if
 6. I enter that, and the url address for my website appears.
 7. 'Milestone project 2' is now live on github pages.
 
-##Media
+##Contact
 
-I used Google Images for the Hero image.
+Feel free to contact me at todd7385@gmail.com.
 
-## Credit
-
-I used Code Institute's Resume program for body design and for icons that come before Locations.
