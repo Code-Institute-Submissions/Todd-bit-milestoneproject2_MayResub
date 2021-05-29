@@ -6,7 +6,7 @@ This is my second Milestone project, which includes the language JavaScript. I d
 
 ### User Stories
 
-User Goals
+#### User Goals
 
 1. As a user, I want to understand what the site is for. 
 2. As a user, I want to find interesting places to visit.
@@ -14,7 +14,7 @@ User Goals
 4. As a user, I want to have good accommodations while I stay.
 5. As a user, I want to be able to contact the site holder immediately.
 
-Site Owner Goals
+#### Site Owner Goals
 
 1. As a site owner, I want people to experience the historical sites of Central Pennsylvania.
 2. As a site owner, I want them to sit back and be taken to these places.
@@ -25,7 +25,7 @@ Site Owner Goals
 
 ### User Requirements and Expectations
 
-Requirements
+#### Requirements
 
 1. The user should be presented with a visually appealing website.
 2. The user should be able to clearly navigate through the website from the time of their first visit,
@@ -33,7 +33,7 @@ Requirements
 4. The user should be able to view these places on a map.
 5. The user should be able to contact the owner of the website.
 
-Expectations
+#### Expectations
 
 1. The website should be visually pleasing and easy to understand.
 2. The website should be informative.
@@ -42,11 +42,11 @@ Expectations
 
 ### Design Choices
 
-Colors
+#### Colors
 
 I used four fall colors for this site - goldenrod, dark green, slate-grey and mild blue.  I feel that this area looks espescially handsome in the fall, at which time these colors can be spotted.
 
-Icons
+#### Icons
 
 The icon in this website was taken from Font Awesome.  I chose the train icon.
 
@@ -82,13 +82,13 @@ Train Icon - A train icon put before the description of each of the sights visit
 
 ## Technologies
 
-Languages
+### Languages
 
 1. HTML
 2. CSS
 3. JavaScript
 
-Libraries & Other
+### Libraries & Other
 
 1. Font Awesome - The icon was found in Font Awesome.
 2. Bootstrap (3.3.7)
@@ -120,13 +120,13 @@ The Hero image photo was taken from Google Images, photographer unknown.
 
 ## Testing
 
-Code Validation
+### Code Validation
 
 1. I passed index.html through W3C Markup Validation Service and it showed no errors.
 2. I passed style.css through W3C CSS Validation Service and it showed no errors.
 3. I passed tbe JavaScript files through Esprima Syntax Validator and it showed no errors.
 
-Device Testing
+### Device Testing
 
 I tested this program on the following three devices:
 
@@ -135,7 +135,7 @@ I tested this program on the following three devices:
 3. An Amazon Fire HD10, with a 10" screen.
 4. A Boost Mobile phone cp3705AS CoolPad, with a 6 1/2" screen.
 
-Developer Tools
+### Developer Tools
 
 I tested the program successfully on five different browsers:
 
@@ -145,13 +145,13 @@ I tested the program successfully on five different browsers:
 4. Internet Explorer
 5. Safari
 
-Manual Testing
+### Manual Testing
 
 1. Every map marker was checked to make sure that it accurately shows where the place is located.   
 2. The email was checked to make sure that the email was sent to my email account.
 3. The social links were checked to make sure that they took the user to the links webpage.
 
-Testing User Stories
+### Testing User Stories
 
 1. As a user, I want to understand what the site is for - It is clear to the users that they could visit Central Pennsylvania on a two day tour.
 
