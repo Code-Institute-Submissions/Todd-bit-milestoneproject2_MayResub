@@ -113,6 +113,7 @@ Train Icon - A train icon put before the description of each of the sights visit
 6. Git - The version control system used for this project was Git.
 7. Google Maps - The map comes from Google Maps.
 8. Google Images - The Hero image comes from Google Images.
+9. DevTools - The inspection of the program was done on DevTools.
 
 
 ## Resources
@@ -146,14 +147,14 @@ The Hero image photo was taken from Google Images, photographer unknown.
 I tested this program on the following three devices:
 
 1. An HP desktop All-in-One 27-dpl-xxx, with a 27" screen.
-2. An Hp laptop 15t-dw200, with a 15" screen.
+2. An HP laptop 15t-dw200, with a 15" screen.
 3. A Boost Mobile phone cp3705AS CoolPad, with a 6 1/2" screen.
 
-Each device tested perfectly and matched the image on DevTools.
+Each device tested perfectly.  The image on the screen matched the image shown on DevTools.
 
 ### Developer Tools
 
-I tested the program successfully on five different browsers:
+On the three devices listed above, I tested the program successfully on five different browsers:
 
 1. Chrome
 2. Firefox
@@ -167,11 +168,17 @@ I tested the program successfully on five different browsers:
 
 2. The markers were drawn up close to where I could check to see if each marker had perfect coordinates and shows the name of then place to be visited, and they do. 
  
-3. The email was checked to seem if it had a box for the person's name, phone number, and email address, and it does.
+3. The map's "+" symbol drew the map in when pushed, and the "-" symbol moved it away when pushed, as it's supposed to do.
 
-4. There are six social links. Each link was pressed to see if it took the user to the proper website, and they all do.
+4. The map's direction symbol moved the map in every direction.
 
-5. The map, email and social links were tested on the three devices that I used - the desktop, laptop and mobile phone - and every device worked out perfectly in the tests described above.
+5. The email was checked to seem if it had a box for the person's name, phone number, and email address, and it does.
+
+6. The contents of the email boxes disappear when the "submit" button is pushed, as it should.
+
+7. There are six social links. Each link was pressed to see if it took the user to the proper website, and they all do.
+
+8. The map, email and social links were tested on the three devices that I used - the desktop, laptop and mobile phone - and every device worked out perfectly in the tests described above.
 
 ### Testing User Stories
 
