@@ -1,4 +1,4 @@
-[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![firstimage](/images/firstimage.png "firstimage App")](https://github.com/Todd-bit/milestoneproject2/)
 
 # Visit Central Pennsylvania
 
