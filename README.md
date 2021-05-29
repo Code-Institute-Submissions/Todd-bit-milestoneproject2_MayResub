@@ -47,7 +47,7 @@ This is my second Milestone project, which includes the language JavaScript. I d
 #### Font
 
 I decided that the bold and simple Impact font would suit this website in the best way.
-[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![fontfamily](/images/fontfamily.png "fontfamily App")](https://github.com/Todd-bit/milestoneproject2/)
 
 #### Colors
 
@@ -57,7 +57,7 @@ I used five fall colors for this site - goldenrod, dark goldenrod, dark green, l
 #### Icons
 
 The icon in this website was taken from Font Awesome.  I chose the train icon because of the regions railroad history.
-[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![icons](/images/icons.png "icons App")](https://github.com/Todd-bit/milestoneproject2/)
 
 ### User Experience - Information, Presentaion, Look and Feel
 
@@ -76,7 +76,7 @@ Lastly, the user will find an email page, which they will use to contact the sit
 ## Wireframe
 
 The wireframe for the three devices that I used:
-[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![wireframe](/images/wireframe.png "wireframe App")](https://github.com/Todd-bit/milestoneproject2/)
 
 ## Features
 
@@ -84,16 +84,16 @@ Hero Image - First the user will see a Hero image of a Limekiln (description of 
 [![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Home Page - The vacation description, the sights visited, the map and the email are all found on one homepage, which has been quarted to fit each of the things just listed.  I mention this as a feature because the site is so simply done for the user, it only needs an easy to navigate Home page to hold it all together.
-[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![home](/images/home.png "home App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Google Map - This is a great feature and tool to use on a website.  Other than giving the user the coordinate location of the place, the map will also show them the highways and the streets that the site is located on - right down to showng the vehicle moving along the street as it heads to the location.
-[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![map](/images/map.png "map App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Email - There is an email contact sight, which the user will use to contact the site holders for information and to make arrangements.
-[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![emailform](/images/emailform.png "emailform App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Train Icon - A train icon put before the description of each of the sights visiting locations.
-[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![trainicon](/images/trainicon.png "trainicon App")](https://github.com/Todd-bit/milestoneproject2/)
 
 ## Technologies
 
