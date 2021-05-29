@@ -4,7 +4,7 @@ This is my second Milestone project, which includes the language JavaScript. I d
 
 ## UX
 
-###User Stories
+### User Stories
 
 User Goals
 
@@ -23,7 +23,7 @@ Site Owner Goals
 5. As a site owner, I want them to have a nice place to stay.  
 6. As a site owner, I want to be able to reach me at anytime.
 
-User Requirements and Expectations
+### User Requirements and Expectations
 
 Requirements
 
@@ -40,7 +40,7 @@ Expectations
 3. The website should have an easy to read location list.
 4. The website should have a working contact form.
 
-##Design Choices
+### Design Choices
 
 Colors
 
@@ -50,22 +50,21 @@ Icons
 
 The icon in this website was taken from Font Awesome.  I chose the train icon.
 
-##User Experience - Information, Presentaion, Look and Feel
+### User Experience - Information, Presentaion, Look and Feel
 
 My goal was to develop the simplest-style webpage, so that the user would naturally and easily see what to do and how to do it, while knowing that they were being included in an important region of Pennsylvania railroad history.
 
 The first thing the user sees is the browser-size photo of a Limekiln, a giant oven which burns up limestone until it becomes quicklime, an important ingredient in mortar.  While this has nothing to do with the railroad, it is, like the iron-making Allegheny Furnace, one of the fascinating historic items that one may see in the area of central Pennsylvania.
 
-Next, the user will be told what the vacation is, and how it's going to happen: The vacationers will visit six places, some historic buildings and some railroad museums (which will be dicussed further down in this description), over a period of two days.  They will stay in a nice hotel, and over the course of each working day (9 a.m. to 5 p.m.) they will be taken by bus to these various destinations with the other vacationers.  To make sure they have ample time to explore each of the different sights, they will see only three of the six places in a day.  Otherwise, they can enjoy the local restaurants and the area in general, which is a railroad region dotted with historic sights and markers.
+Next, the user will be told what the vacation is, and how it's going to happen: The users will visit six places, some historic buildings and some railroad museums (which will be dicussed further down in this description), over a period of two days.  They will stay in a nice hotel, and over the course of each working day (9 a.m. to 5 p.m.) they will be taken by bus to these various destinations with the other users.  To make sure they have ample time to explore each of the different sights, they will see only three of the six places in a day.  Otherwise, they can enjoy the local restaurants and the area in general, which is a railroad region dotted with historic sights and markers.
 
-Now the user can see the list of the different sights to be visited and read a brief description of the places.  On one day, they will visit Fort Roberdeau, a colonial wooden fort, built to protect the mining trade from the native-Americans and the English. They will also visit two interesting railroad sights in Gallitzin, PA.  On the other day, they will visit Baker Mansion, a stone mansion built by the wealthy iron-making Bakers in the 1840's, the cost of which ruined the Bakers.  Next, they will visit the Horseshoe Curve, the "eigth wonder of the world", a natural railroad track roundabout, which, in the 1850's, is the only passage for railroad trains to take to make it further west.  This place was important enough to be be at the top of the bombing sights made by the German army during WW II.  Finally the vacationer will visit the Altoona Railroad Museum, a great railroad museum.  Altoona was built solely as a railroad town in 1854.
+Now the user can see the list of the different sights to be visited and read a brief description of the places.  On one day, they will visit Fort Roberdeau, a colonial wooden fort, built to protect the mining trade from the native-Americans and the English. They will also visit two interesting railroad sights in Gallitzin, PA.  On the other day, they will visit Baker Mansion, a stone mansion built by the wealthy iron-making Bakers in the 1840's, the cost of which ruined the Bakers.  Next, they will visit the Horseshoe Curve, the "eigth wonder of the world", a natural railroad track roundabout, which, in the 1850's, is the only passage for railroad trains to take to make it further west.  This place was important enough to be be at the top of the bombing sights made by the German army during WW II.  Finally the user will visit the Altoona Railroad Museum, a great railroad museum.  Altoona was built solely as a railroad town in 1854.
 
 The user will be able to see the location of all these sights on the Google Map, a great tool that shows one the real location of these sights and where they are with respect to one another.
 
 Lastly, the user will find an email page, which they will use to contact the site-holder to make arrangements.
 
-
-###Wireframe
+## Wireframe
 
 The wireframe for this website can be found at the following link
 
@@ -101,7 +100,7 @@ Libraries & Other
 8. Google Images - The Hero image comes from Google Images.
 
 
-##Resources
+## Resources
 
 The following were used as learning resources throughout the building of this project:
 
@@ -111,11 +110,11 @@ The following were used as learning resources throughout the building of this pr
 4. Youtube
 5. Markdown
 
-##Bugs
+## Bugs
 
-The only bug that I had was that the coordinates given by Google Maps were incorrect, and put the locations in the wrong place.  I fixed this problem by going to LatLong website for correct map coordinates.
+The only bug that I had was that the coordinates given by Wikipedia were incorrect, and put the locations in the wrong place.  I fixed this problem by going to  a different website called LatLong, which gave me the correct map coordinates.
 
-##Media
+## Media
 
 The Hero image photo was taken from Google Images, photographer unknown.
 
@@ -164,7 +163,7 @@ Testing User Stories
 
 5. As a user, I want to be able to contact the site holder immediately - This is achieved by placing an email form at the end of the site.
 
-##Deployment To Github Pages
+## Deployment To Github Pages
 
 1. I sign into github and go to 'My Repositories".
 2. I find the repository 'Milestone project 2' and choose that.
@@ -174,7 +173,7 @@ Testing User Stories
 6. I enter that, and the url address for my website appears.
 7. 'Milestone project 2' is now live on github pages.
 
-##Contact
+## Contact
 
 Feel free to contact me at todd7385@gmail.com.
 
