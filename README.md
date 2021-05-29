@@ -8,14 +8,11 @@ This is my second Milestone project, which includes the language JavaScript. I d
 
 User Goals
 
-1. As a user, I want to understand what the site is for.
-2. As a user, I want to easily make my way through the site. 
-3. As a user, I want to find interesting places to tour.
-4. As a user, I want to have the daily itinerary picked out for me.
-5. As a user, I want to see the locations of the places to visit.
-6. As a user, I want transportation to be taken care of.
-7. As a user, I want to have good accommodations while I stay.
-8. As a user, I want to be able to contact the site holder immediately.
+1. As a user, I want to understand what the site is for. 
+2. As a user, I want to find interesting places to visit.
+3. As a user, I want to see the locations of the places to visit.
+4. As a user, I want to have good accommodations while I stay.
+5. As a user, I want to be able to contact the site holder immediately.
 
 Site Owner Goals
 
@@ -53,7 +50,7 @@ Icons
 
 The icon in this website was taken from Font Awesome.  I chose the train icon.
 
-###User Experience
+##User Experience - Information, Presentaion, Look and Feel
 
 My goal was to develop the simplest-style webpage, so that the user would naturally and easily see what to do and how to do it, while knowing that they were being included in an important region of Pennsylvania railroad history.
 
@@ -151,11 +148,23 @@ I tested the program successfully on five different browsers:
 
 Manual Testing
 
-
+1. Every map marker was checked to make sure that it accurately shows where the place is located.   
+2. The email was checked to make sure that the email was sent to my email account.
+3. The social links were checked to make sure that they took the user to the links webpage.
 
 Testing User Stories
 
-## Deployment To Github Pages
+1. As a user, I want to understand what the site is for - It is clear to the users that they could visit Central Pennsylvania on a two day tour.
+
+2. As a user, I want to find interesting places to visit - This is achieved by describing the places to visit with a breif and accurate description.
+
+3. As a user, I want to see the locations of the places to visit - This is achieved by placing markers on Google Maps.
+
+4. As a user, I want to have good accommodations while I stay - This is achieved by putting the user in a fine local hotel.
+
+5. As a user, I want to be able to contact the site holder immediately - This is achieved by placing an email form at the end of the site.
+
+##Deployment To Github Pages
 
 1. I sign into github and go to 'My Repositories".
 2. I find the repository 'Milestone project 2' and choose that.
