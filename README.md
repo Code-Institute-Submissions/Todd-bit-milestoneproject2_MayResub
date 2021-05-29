@@ -1,3 +1,5 @@
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+
 # Visit Central Pennsylvania
 
 This is my second Milestone project, which includes the language JavaScript. I decided to do my own project, which is a webpage that invites people to tour two cities in Central Pennsylvania, Altoona and Gallitzen, over a two day period. Visitors will have ample time to visit the some important railroad sights and a railroad museum, and to see Baker Mansion and the colonial Fort Roberdeau.
@@ -45,14 +47,17 @@ This is my second Milestone project, which includes the language JavaScript. I d
 #### Font
 
 I decided that the bold and simple Impact font would suit this website in the best way.
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 #### Colors
 
 I used five fall colors for this site - goldenrod, dark goldenrod, dark green, light-slate-grey and blue.  I feel that this area looks espescially handsome in the fall, at which time these colors can be spotted.  The background color for this website is beige.
+[![color](/images/color.png "color App")](https://github.com/Todd-bit/milestoneproject2/)
 
 #### Icons
 
 The icon in this website was taken from Font Awesome.  I chose the train icon because of the regions railroad history.
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 ### User Experience - Information, Presentaion, Look and Feel
 
@@ -70,7 +75,8 @@ Lastly, the user will find an email page, which they will use to contact the sit
 
 ## Wireframe
 
-The wireframe for this website can be found at the following link
+The wireframe for the three devices that I used:
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 ## Features
 
@@ -78,12 +84,16 @@ Hero Image - First the user will see a Hero image of a Limekiln (description of 
 [![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Home Page - The vacation description, the sights visited, the map and the email are all found on one homepage, which has been quarted to fit each of the things just listed.  I mention this as a feature because the site is so simply done for the user, it only needs an easy to navigate Home page to hold it all together.
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Google Map - This is a great feature and tool to use on a website.  Other than giving the user the coordinate location of the place, the map will also show them the highways and the streets that the site is located on - right down to showng the vehicle moving along the street as it heads to the location.
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Email - There is an email contact sight, which the user will use to contact the site holders for information and to make arrangements.
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Train Icon - A train icon put before the description of each of the sights visiting locations.
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 ## Technologies
 
