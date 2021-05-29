@@ -71,7 +71,7 @@ The wireframe for this website can be found at the following link
 ## Features
 
 Hero Image - First the user will see a Hero image of a Limekiln (description of a Limekiln given above), which is a giant picture of the thing with the phrase "Visit Central Pennsylvania" written over it.  I mention this as a feature because I feel the Hero image gives the website a single established and unifying mark, the one big hub around which the smaller things are grouped.
-[![heroimage](/images/visitcentralpa.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
+[![heroimage](/images/heroimage.png "visitcentralpa App")](https://github.com/Todd-bit/milestoneproject2/)
 
 Home Page - The vacation description, the sights visited, the map and the email are all found on one homepage, which has been quarted to fit each of the things just listed.  I mention this as a feature because the site is so simply done for the user, it only needs an easy to navigate Home page to hold it all together.
 
