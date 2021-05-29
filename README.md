@@ -42,13 +42,17 @@ This is my second Milestone project, which includes the language JavaScript. I d
 
 ### Design Choices
 
+#### Font
+
+I decided that the bold and simple Impact font would suit this website in the best way.
+
 #### Colors
 
-I used four fall colors for this site - goldenrod, dark green, slate-grey and mild blue.  I feel that this area looks espescially handsome in the fall, at which time these colors can be spotted.
+I used five fall colors for this site - goldenrod, dark goldenrod, dark green, light-slate-grey and blue.  I feel that this area looks espescially handsome in the fall, at which time these colors can be spotted.  The background color for this website is beige.
 
 #### Icons
 
-The icon in this website was taken from Font Awesome.  I chose the train icon.
+The icon in this website was taken from Font Awesome.  I chose the train icon because of the regions railroad history.
 
 ### User Experience - Information, Presentaion, Look and Feel
 
@@ -133,8 +137,9 @@ I tested this program on the following three devices:
 
 1. An HP desktop All-in-One 27-dpl-xxx, with a 27" screen.
 2. An Hp laptop 15t-dw200, with a 15" screen.
-3. An Amazon Fire HD10, with a 10" screen.
-4. A Boost Mobile phone cp3705AS CoolPad, with a 6 1/2" screen.
+3. A Boost Mobile phone cp3705AS CoolPad, with a 6 1/2" screen.
+
+Each device tested perfectly and matched the image on DevTools.
 
 ### Developer Tools
 
@@ -148,15 +153,21 @@ I tested the program successfully on five different browsers:
 
 ### Manual Testing
 
-1. Every map marker was checked to make sure that it accurately shows where the place is located.   
-2. The email was checked to make sure that the email was sent to my email account.
-3. The social links were checked to make sure that they took the user to the links webpage.
+1. There are six locations and the map has a marker for each one.
+
+2. The markers were drawn up close to where I could check to see if each marker had perfect coordinates and shows the name of then place to be visited, and they do. 
+ 
+3. The email was checked to seem if it had a box for the person's name, phone number, and email address, and it does.
+
+4. There are six social links. Each link was pressed to see if it took the user to the proper website, and they all do.
+
+5. The map, email and social links were tested on the three devices that I used - the desktop, laptop and mobile phone - and every device worked out perfectly in the tests described above.
 
 ### Testing User Stories
 
 1. As a user, I want to understand what the site is for - It is clear to the users that they could visit Central Pennsylvania on a two day tour.
 
-2. As a user, I want to find interesting places to visit - This is achieved by describing the places to visit with a breif and accurate description.
+2. As a user, I want to find interesting places to visit - This is achieved by describing the places to visit with a brief and accurate description.
 
 3. As a user, I want to see the locations of the places to visit - This is achieved by placing markers on Google Maps.
 
