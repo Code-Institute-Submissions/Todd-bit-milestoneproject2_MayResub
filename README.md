@@ -103,16 +103,16 @@ Train Icon - A train icon put before the description of each of the sights visit
 2. CSS
 3. JavaScript
 
-### Libraries & Other
+### Libraries & Other Things
 
 1. Font Awesome - The icon was found in Font Awesome.
-2. Bootstrap (3.3.7)
+2. Bootstrap (3.3.7) - A CSS framework.
 3. Balsamiq - The wireframles come from Balsamiq.
 4. Github - This project was stored on Github.
 5. Gitpod - Gitpod was used to write the code on this project.
 6. Git - The version control system used for this project was Git.
 7. Google Maps - The map comes from Google Maps.
-8. Google Images - The Hero image comes from Google Images.
+8. Wikipedia - The Hero image comes from Wikipedia.
 9. DevTools - The inspection of the program was done on DevTools.
 
 
@@ -133,6 +133,16 @@ The only bug that I had was that the coordinates given by Wikipedia were incorre
 ## Media
 
 The Hero image photo was taken from Wikipedia, photographer unknown.  Here's the url https://upload.wikimedia.org/wikipedia/commons/e/e2/Camera_pics_141.jpg.
+
+## Deployment To Github Pages
+
+1. I sign into github and go to 'My Repositories".
+2. I find the repository 'Milestone project 2' and choose that.
+3. I find 'settings' and choose that.
+4. I scroll down to 'github pages' and select that.
+5. I find 'source' on the github pages and choose "master branch'.
+6. I enter that, and the url address for my website appears.
+7. 'Milestone project 2' is now live on github pages.
 
 ## Testing
 
@@ -200,16 +210,6 @@ I ran a Lighthouse audit on the program.  Here are the four audit results:
 [![lighthouse(2)](/images/lighthouse(2).png "lighthouse(2) App")](https://github.com/Todd-bit/milestoneproject2/)
 [![lighthouse(3)](/images/lighthouse(3).png "lighthouse(3) App")](https://github.com/Todd-bit/milestoneproject2/)
 [![lighthouse(4)](/images/lighthouse(4).png "lighthouse(4) App")](https://github.com/Todd-bit/milestoneproject2/)
-
-## Deployment To Github Pages
-
-1. I sign into github and go to 'My Repositories".
-2. I find the repository 'Milestone project 2' and choose that.
-3. I find 'settings' and choose that.
-4. I scroll down to 'github pages' and select that.
-5. I find 'source' on the github pages and choose "master branch'.
-6. I enter that, and the url address for my website appears.
-7. 'Milestone project 2' is now live on github pages.
 
 ## Contact
 
