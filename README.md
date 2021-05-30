@@ -211,6 +211,17 @@ I ran a Lighthouse audit on the program.  Here are the four audit results:
 [![lighthouse(3)](/images/lighthouse(3).png "lighthouse(3) App")](https://github.com/Todd-bit/milestoneproject2/)
 [![lighthouse(4)](/images/lighthouse(4).png "lighthouse(4) App")](https://github.com/Todd-bit/milestoneproject2/)
 
+
+### Defects Note
+
+I'm overcoming the following three defects:
+
+1. Poor hand posistion while typing - I have frequently had to remove extra unwanted keystrokes while writing, and, somehow, have even erased the whole screen because of sloppy typing.
+
+2. Find out what the others are doing - It's a very good idea to see if there are ways and methods that I don't know about yet.  For example, I just found out that many peolple are putting images into their ReadMe file.
+
+3. Too many commits due to poor planning - Sometimes I am endlessly commiting because I haven't thought the project all the way through.
+
 ## Contact
 
 Feel free to contact me at todd7385@gmail.com.
