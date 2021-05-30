@@ -113,7 +113,7 @@ Train Icon - A train icon put before the description of each of the sights visit
 6. Git - The version control system used for this project was Git.
 7. Google Maps - The map comes from Google Maps.
 8. Wikipedia - The Hero image comes from Wikipedia.
-9. DevTools - The inspection of the program was done on DevTools.
+9. DevTools - The inspection of the program was done on DevTools, the Google Chrome site inspection tool.
 
 
 ## Resources
