@@ -132,7 +132,7 @@ The only bug that I had was that the coordinates given by Wikipedia were incorre
 
 ## Media
 
-The Hero image photo was taken from Google Images, photographer unknown.
+The Hero image photo was taken from Wikipedia, photographer unknown.  Here's the url https://upload.wikimedia.org/wikipedia/commons/e/e2/Camera_pics_141.jpg.
 
 ## Testing
 
@@ -191,6 +191,15 @@ On the three devices listed above, I tested the program successfully on five dif
 4. As a user, I want to have good accommodations while I stay - This is achieved by putting the user in a fine local hotel.
 
 5. As a user, I want to be able to contact the site holder immediately - This is achieved by placing an email form at the end of the site.
+
+### Lighthouse Audits
+
+I ran a Lighthouse audit on the program.  Here are the four audit results:
+
+[![lighthouse(1)](/images/lighthouse(1).png "lighthouse(1) App")](https://github.com/Todd-bit/milestoneproject2/)
+[![lighthouse(2)](/images/lighthouse(2).png "lighthouse(2) App")](https://github.com/Todd-bit/milestoneproject2/)
+[![lighthouse(3)](/images/lighthouse(3).png "lighthouse(3) App")](https://github.com/Todd-bit/milestoneproject2/)
+[![lighthouse(4)](/images/lighthouse(4).png "lighthouse(4) App")](https://github.com/Todd-bit/milestoneproject2/)
 
 ## Deployment To Github Pages
 
